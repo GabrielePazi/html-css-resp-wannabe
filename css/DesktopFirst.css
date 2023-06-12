@@ -2,24 +2,16 @@
     /* TABLET RESPONSIVE */
 
 @media screen and (max-width: 768px) {
-    body {
-        width: 768px;
-    }
-
     .container {
-        width: 768px;
+        width: 100%;
     }
 }
 
     /* MOBILE RESPONSIVE */
 
 @media screen and (max-width: 480px) {
-    body {
-        width: 480px;
-    }
-
     .container {
-        width: 480px;
+        width: 100%;
     }
 
     .row {
